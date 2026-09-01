@@ -12,7 +12,6 @@ body {
   background-color: #d9dcd6;
 }
 
-
 /* =========================
    HEADER
    ========================= */
@@ -20,12 +19,8 @@ body {
 header {
   padding: 20px;
   font-family:
-    "Trebuchet MS",
-    "Lucida Sans Unicode",
-    "Lucida Grande",
-    "Lucida Sans",
-    Arial,
-    sans-serif;
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
 
   background-color: #2a607c;
   color: #ffffff;
@@ -40,7 +35,6 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
-
 /* =========================
    NAVIGATION
    ========================= */
@@ -51,12 +45,7 @@ header nav {
 
   float: right;
 
-  font-family:
-    "Gill Sans",
-    "Gill Sans MT",
-    Calibri,
-    "Trebuchet MS",
-    sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 
   font-size: 20px;
 }
@@ -75,7 +64,6 @@ a {
   text-decoration: none;
 }
 
-
 /* =========================
    GENERAL TEXT
    ========================= */
@@ -83,7 +71,6 @@ a {
 p {
   font-size: 16px;
 }
-
 
 /* =========================
    HERO
@@ -99,7 +86,6 @@ p {
   background-position: center;
 }
 
-
 /* =========================
    MAIN CONTENT
    ========================= */
@@ -108,7 +94,6 @@ main {
   width: 100%;
   display: block;
 }
-
 
 /* =========================
    CONTENT
@@ -122,7 +107,6 @@ main {
   float: left;
 }
 
-
 /* =========================
    CONTENT SECTIONS
    ========================= */
@@ -135,17 +119,11 @@ main {
 
   height: 300px;
 
-  font-family:
-    "Gill Sans",
-    "Gill Sans MT",
-    Calibri,
-    "Trebuchet MS",
-    sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 
   background-color: #0072bb;
   color: #ffffff;
 }
-
 
 /* =========================
    CONTENT IMAGES
@@ -167,7 +145,6 @@ main {
   margin-left: 25px;
 }
 
-
 /* =========================
    CONTENT HEADINGS
    ========================= */
@@ -178,7 +155,6 @@ main {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
 
 /* =========================
    BENEFITS / ASIDE
@@ -193,17 +169,11 @@ main {
 
   float: right;
 
-  font-family:
-    "Gill Sans",
-    "Gill Sans MT",
-    Calibri,
-    "Trebuchet MS",
-    sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 
   background-color: #2589bd;
   color: #ffffff;
 }
-
 
 /* =========================
    BENEFIT ARTICLES
@@ -211,13 +181,12 @@ main {
 
 .benefits article {
   margin-bottom: 32px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .benefits article:last-child {
   margin-bottom: 0;
 }
-
 
 /* =========================
    BENEFIT HEADINGS
@@ -227,7 +196,6 @@ main {
   margin-bottom: 10px;
   text-align: center;
 }
-
 
 /* =========================
    BENEFIT IMAGES
@@ -239,7 +207,6 @@ main {
   max-width: 150px;
 }
 
-
 /* =========================
    FOOTER
    ========================= */
@@ -250,12 +217,8 @@ main {
   clear: both;
 
   font-family:
-    "Trebuchet MS",
-    "Lucida Sans Unicode",
-    "Lucida Grande",
-    "Lucida Sans",
-    Arial,
-    sans-serif;
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
 
   text-align: center;
   color: #000000;

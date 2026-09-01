@@ -8,7 +8,6 @@ body {
   background-color: #d9dcd6;
 }
 
-
 header {
   padding: 20px;
   font-family:
@@ -73,9 +72,9 @@ p {
 }
 
 .service img {
-  max-height: 200px;
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
 .service h2 {
@@ -91,7 +90,7 @@ p {
   background-image: url("../images/digital-marketing-meeting.webp");
   background-size: cover;
   background-position: center;
-  max-inline-size: 100%;
+
 }
 
 
